@@ -4,7 +4,7 @@
   "UrlUpdate": "https://raw.githubusercontent.com/rickhq7/CONECTA4G/main/UrlUpdate",
   "Sms": "UrlSms aqui",
   "EmailFeedback": "eric.sts@hotmail.com",
-  "UrlContato": "https://t.me/kiritosshxd",
+  "UrlContato": "https://bit.ly/3Ol1JgQ",
   "UrlTermos": "UrlTermos aqui",
   "CheckUser": "true",
   "Udp": [
@@ -26,26 +26,26 @@
   ],
   "Servers": [
     {
-      "Name": "CONECTA4G | PLUS",
+      "Name": "SSHVIP | PLUS",
       "TYPE": "premium",
       "FLAG": "br.png",
-      "ServerIP": "exemplo01.dominio.xyz",
-      "CheckUser": "http://exemplo01.dominio.xyz:5454/checkUser",
+      "ServerIP": "br01.sshvip.xyz",
+      "CheckUser": "http://br01.sshvip.xyz:5454/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
       "USER": "",
       "PASS": ""
     },
     {
-      "Name": "PREMIUM 02 | PLUS",
+      "Name": "SSHVIP | GRÁTIS",
       "TYPE": "free",
       "FLAG": "br.png",
-      "ServerIP": "exemplo02.dominio.xyz",
-      "CheckUser": "http://exemplo02.dominio.xyz:8989/checkUser",
+      "ServerIP": "br01.sshvip.xyz",
+      "CheckUser": "http://br01.sshvip.xyz:5454/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
-      "USER": "kirito",
-      "PASS": "1234"
+      "USER": "",
+      "PASS": ""
     }
   ],
   "Networks": [
